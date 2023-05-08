@@ -100,7 +100,7 @@ body {
 }
 
 /*Media querries*/
-
+/*
 @media (min-width: 550px) {
   .header {
     display: grid;
@@ -108,4 +108,4 @@ body {
     grid-gap: 1em;
     height: 6.5em;
   }
-}
+}*/
